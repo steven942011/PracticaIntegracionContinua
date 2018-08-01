@@ -22,5 +22,5 @@ if(numero >=28){
 System.out.println("Usted a ganado el curso con: "+numero);
 }else{System.out.println("Usted reprobo con: "+numero);}
    }
-   
+   // hola bienvenido a GitHub
 }
